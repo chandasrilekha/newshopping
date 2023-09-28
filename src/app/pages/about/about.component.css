@@ -1,0 +1,33 @@
+.stepBox{
+    background-color: #000;
+    padding: 20px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+.stepBox h1{
+    font-size: 50px;
+    font-weight: bold;
+    color:var(--primary-color);
+}
+.stepBox p{
+    font-size: 20px;
+    font-style: italic;
+    color:#fff;
+}
+.highlight{
+    color:var(--primary-color);
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+.stepBoxone{
+    background-color: #4ab619;
+    padding: 20px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+.stepBoxone p{
+    font-size: 20px;
+    font-style: italic;
+    color:#fff;
+}
